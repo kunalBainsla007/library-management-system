@@ -130,5 +130,5 @@ def main():
             print("Please enter a valid choice")
 
 
-if __name__ == "__1main__":
+if __name__ == "__main__":
     main()
